@@ -5,7 +5,11 @@
 AI engineer with 10+ years in software development, the last two-plus years building
 production LLM systems: RAG search, agentic workflows, voice agents and MCP tool
 integrations. I work as an independent contractor through
-[Neuro Momentum](mailto:gediminas@neuromomentum.biz).
+[Neuro Momentum](https://www.linkedin.com/company/144872943/).
+
+[LinkedIn](https://www.linkedin.com/in/gediminas-pal%C5%A1ys-240999113) ·
+[Neuro Momentum on LinkedIn](https://www.linkedin.com/company/144872943/) ·
+[gediminas@neuromomentum.biz](mailto:gediminas@neuromomentum.biz)
 
 ## What I have built
 
