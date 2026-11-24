@@ -37,6 +37,10 @@ GitHub Actions CI.
 
 ## Projects
 
+- [llm-experiment-stats](https://github.com/gp-pal/llm-experiment-stats) — is prompt B
+  actually better than prompt A? Paired statistics for LLM evals (exact McNemar, paired
+  bootstrap, an A/A noise floor, sample size) and one experiment run end to end, in which
+  the "better" prompt turned out 22.5 points worse and the error analysis shows why.
 - **ProfiltAgent** — a ReAct agent that builds profiles of Lithuanian companies from their websites: a Laravel orchestrator,
   plans written in a strict JSON DSL and validated before a Playwright runner executes
   them. *Public release in progress.*
