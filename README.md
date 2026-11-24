@@ -41,9 +41,11 @@ GitHub Actions CI.
   actually better than prompt A? Paired statistics for LLM evals (exact McNemar, paired
   bootstrap, an A/A noise floor, sample size) and one experiment run end to end, in which
   the "better" prompt turned out 22.5 points worse and the error analysis shows why.
-- **ProfiltAgent** — a ReAct agent that builds profiles of Lithuanian companies from their websites: a Laravel orchestrator,
-  plans written in a strict JSON DSL and validated before a Playwright runner executes
-  them. *Public release in progress.*
+- [ProfiltAgent](https://github.com/gp-pal/ProfiltAgent) — a self-hosted agent that builds
+  a verified profile of a company from the registry, its official site, the open web and
+  the news, with a source and a verification status behind every value. A Laravel
+  orchestrator, and a Playwright runner that executes plans written in a strict JSON DSL.
+  Built for Lithuanian companies first.
 - **Dify and Python backend over MCP** — a Dify agentic system connected to a Python
   backend through the Model Context Protocol, using FastMCP.
 - [xrealair2-window-zoom](https://github.com/gp-pal/xrealair2-window-zoom) — desktop zoom
